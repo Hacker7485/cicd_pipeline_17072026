@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    LAMBDA_FUNCTION_NAME: "your-lambda-function-name"
+    LAMBDA_FUNCTION_NAME: "github-cicd-lambda"
 
 phases:
   install:
