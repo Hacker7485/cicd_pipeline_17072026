@@ -5,6 +5,6 @@ def lambda_handler(event, context):
     return {
         "statusCode": 200,
         "body": json.dumps({
-            "message": "Lambda deployed automatically from GitHub!"
+            "message": "Lambda deployed automatically from GitHub V1!"
         })
     }
